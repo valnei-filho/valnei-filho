@@ -1,33 +1,80 @@
-# 👋 Olá, eu sou o Valnei Rezende  
 
-🎯 Estou iniciando minha jornada como **Analista de Qualidade de Software**  
-🧪 Aprendendo cada vez mais sobre **testes manuais e automação**  
-🚀 Motivado a evoluir minhas habilidades em **QA, ferramentas de testes e boas práticas de software**  
-📚 Acredito que cada dia é uma nova oportunidade de aprendizado e crescimento  
+👋 Olá! Eu sou o Valnei Rezende
 
----
+💻 Quality Assurance Analyst (QA) com experiência em testes manuais, testes de API e automação de testes em aplicações Web e Mobile.
 
-## 🔧 Tecnologias e Ferramentas que estou aprendendo
-
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+Atualmente atuo na área de Qualidade de Software, participando de todas as etapas do processo de validação de funcionalidades, análise de requisitos, identificação de bugs e melhoria contínua de produtos SaaS.
 
 ---
 
-## 🌱 Sobre mim
+🚀 Tecnologias e Ferramentas
 
-- Sempre em busca de aprender coisas novas  
-- Focado em me desenvolver na área de **Qualidade de Software**  
-- Acredito que a prática é o melhor caminho para evolução  
-- Construindo minha base de conhecimento passo a passo  
+Qualidade de Software
+
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Homologação
+- API Testing
+
+Automação
+
+- Cypress
+- JavaScript
+- Playwright (em evolução)
+
+Ferramentas
+
+- Postman
+- Jira
+- Git
+- GitHub
+- SQL
+- Trello
+
+Metodologias
+
+- Scrum
+- Kanban
 
 ---
 
-## 🌐 Onde me encontrar
+📚 Atualmente estudando
 
-- [LinkedIn](https://www.linkedin.com/in/valnei-filho)  
-- 📧 **valnei.rezende@hotmail.com**
+- 📖 CTFL (Certified Tester Foundation Level)
+- 🎭 Playwright
+- 🟦 TypeScript
+- ⚙️ GitHub Actions
+- 🐳 Docker
+- 🤖 Inteligência Artificial aplicada à Qualidade de Software
+
+---
+
+📂 Meus projetos
+
+Neste perfil você encontrará projetos voltados para:
+
+- ✔ Automação de testes com Cypress
+- ✔ Automação de APIs
+- ✔ Estudos em Playwright
+- ✔ Exercícios de SQL
+- ✔ Casos de teste
+- ✔ Bug Reports
+- ✔ Frameworks de automação
+- ✔ Estudos e experimentos relacionados à Qualidade de Software
+
+Todos os projetos são desenvolvidos com foco em boas práticas, organização de código e evolução profissional.
+
+---
+
+🎯 Objetivo
+
+Meu objetivo é evoluir continuamente como profissional de Qualidade de Software, contribuindo para o desenvolvimento de aplicações mais confiáveis através de testes, automação e melhoria contínua dos processos.
+
+---
+
+🌐 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/valnei-rezende
+
+📧 E-mail: valnei.rezende@hotmail.com
