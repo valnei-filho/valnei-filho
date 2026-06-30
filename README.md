@@ -73,7 +73,7 @@ Meu objetivo é evoluir continuamente como profissional de Qualidade de Software
 
 ---
 
-🌐 Contato
+🌐 Contato: (67) 98406-2128
 
 💼 LinkedIn: https://www.linkedin.com/in/valnei-rezende
 
